@@ -1,5 +1,7 @@
 Description: This is a curated list of useful programs and websites, covering many different subjects, focused on simplicity, ease of use, privacy and freedom.
 
+Unlike many similar projects that I've come across, this isn't merely a mindless list of programs related to certain subjects. In order to be featured on this list, a program needs to be useful, and better at what they do than the others, regarding the 4 aspects I've mentioned earlier: simplicity, ease of use, privacy and freedom. As the time passes, I'll make deeper and deeper searches on the web, and the list will get updated with less-known, but promising programs.
+
 -
 
 Also check out the Windows 7 Compendium: https://github.com/cyberhardt/windows7compendium
