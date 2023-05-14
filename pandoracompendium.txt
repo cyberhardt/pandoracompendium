@@ -671,7 +671,7 @@ useful websites - u
 
 2u - Text upload: https://pst.moe/
 
-3u - List of good file-hosting sites: https://pixeldrain.com/, https://terminal.lc/, https://gofile.io/, https://anonfiles.com/,https://workupload.com/, https://wormhole.app/, https://www.mediafire.com/, https://mega.nz/, https://dropmefiles.com/, https://oshi.at/, https://file.pizza/, https://catbox.moe/
+3u - List of good file-hosting sites: https://pixeldrain.com/, https://terminal.lc/, https://gofile.io/, https://anonfiles.com/,https://workupload.com/, https://wormhole.app/, https://www.mediafire.com/, https://dropmefiles.com/, https://oshi.at/, https://file.pizza/, https://catbox.moe/
 
 4u - Some image-hosting sites: https://pic8.co/, https://imgbb.com/, https://imgbox.com/, https://postimages.org/, https://picuza.com/
 
