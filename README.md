@@ -39,16 +39,25 @@ Most software on this list are free, but there are some paid ones as well. I tri
 Tags:
 
 o = Open Source
+
 c = Closed Source
 
 W = Windows 10+
+
 WU = Windows Universal (At least Windows 7+)
+
 W? = Windows not specified (not specified in which versions it runs)
+
 L = Linux
+
 LU = Linux Universal (AppImage or Flatpak)
+
 L? = Linux not specified (not specified in which versions it runs)
+
 M = Mac
+
 A = Android
+
 I = IOS
 
 ? = Unknown
@@ -63,20 +72,35 @@ Programs may also work on other operating systems, the tags are valid for offici
 Categories:
 
 anime/manga/japan - a
+
 browsing - b
+
 browser extensions - be
+
 video/media/mkv - v
+
 frontends and so on - f
+
 games - g
+
 images/animation/art - i
+
 mail - m
+
 music/audio - mu
+
 other software - os
+
 data security and privacy - s
+
 social/messaging - sm
+
 torrent/downloading - t
+
 programming/writing - p
+
 useful websites - u
+
 windows - w
 
 Some categories were further divided into sections due to their size.
