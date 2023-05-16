@@ -2,11 +2,13 @@ THE PANDORA COMPENDIUM OF LINKS
 for the good netizen
 ...and for weebs
 
-AS OF: 14/05/2023
+AS OF: 16/05/2023
 
 BY: cyberhardt
 
 REVISION: 16
+
+Total Entries: 265
 
 -
 
@@ -204,40 +206,43 @@ video/media/mkv - v
 15v - Cut and rejoin losslessly: https://sourceforge.net/projects/losslesscut.mirror/ - o W LU M
       ∟ Last windows 7 compatible version: 3.50.0.
 
-16v - Edit subtitles: https://github.com/wangqr/Aegisub/ - o W? L M
-
-17v - Encode, transcode media: https://handbrake.fr/ - o W LU M x
+16v - Encode, transcode media: https://handbrake.fr/ - o W LU M x
       ∟ Last win7 compatible version: 1.3.3.
 
-18v - Another encoder: https://github.com/staxrip/staxrip - o W?
+17v - Another encoder: https://github.com/staxrip/staxrip - o W?
 
-19v - Another encoder: https://ffmpeg-batch.sourceforge.io/ - o WU
+18v - Another encoder: https://ffmpeg-batch.sourceforge.io/ - o WU
 
-20v - Doki Timing Guide: https://doki.co/support/doki-timing-guide/
+19v - Edit subtitles: https://github.com/wangqr/Aegisub/ - o W? L M
 
-21v - Good site & forum: https://www.videohelp.com/ 
+20v - Download from opensubtitles.org: https://github.com/Valyreon/Subloader - o W?
+      ∟ Such a chore to find this. I had to search through >1000 repositories on github to find a decent program. 
+
+21v - Doki Timing Guide: https://doki.co/support/doki-timing-guide/
+
+22v - Good site & forum: https://www.videohelp.com/ 
 
 -Third Section - CD/DVD/Blu-ray-
 
-22v - Rip and decrypt disks: https://www.makemkv.com/ - c WU M x
+23v - Rip and decrypt disks: https://www.makemkv.com/ - c WU M x
       ∟ Linux version requires building. Beta keys: https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053
       Mkv muxing isn't a necessity, you can just rip them as-is.
 
-23v - Makemkv's ultimate uhd guide: https://forum.makemkv.com/forum/viewtopic.php?t=19634
+24v - Makemkv's ultimate uhd guide: https://forum.makemkv.com/forum/viewtopic.php?t=19634
       ∟ Regarding that guide, most official UHD drives were purged from amazon and other sites. Most of the ones being sold were stripped from their ability to read and/or write uhd - the few models left that manage to do it are sold at outrageous prices. Pretty pathetic. I recommend LG or Pioneer internal drives. Don't buy USB/External ones. Try to get one with M-Disc support (most of them support m-disc). Use only single-layer blu ray for durability and reliability. Only buy disks made in either Japan or Singapore (preferably from Verbatim) - don't buy the ones made in Taiwan. Write in slowest speeds to guarantee reliable data write. Don't expose your disks and drives to heat, sun, humidity, vibration, dust.
 
-24v - Burn disks (CD, DVD, BD): https://www.anyburn.com/ - c WU x
+25v - Burn disks (CD, DVD, BD): https://www.anyburn.com/ - c WU x
       ∟ Seems to be the best burner.
 
-25v - Another one: https://www.imgburn.com/ - c WU
+26v - Another one: https://www.imgburn.com/ - c WU
 
-26v - Another one: https://www.fosshub.com/CDBurnerXP.html - c WU x
+27v - Another one: https://www.fosshub.com/CDBurnerXP.html - c WU x
 
-27v - On linux: https://apps.kde.org/k3b/ - o L x
+28v - On linux: https://apps.kde.org/k3b/ - o L x
 
-28v - On linux 2: https://docs.xfce.org/apps/xfburn/start - o L x
+29v - On linux 2: https://docs.xfce.org/apps/xfburn/start - o L x
 
-29v - Style your DVD's: https://www.dvdstyler.org/en/downloads - o WU M x
+30v - Style your DVD's: https://www.dvdstyler.org/en/downloads - o WU M x
 
 -
 
@@ -625,41 +630,43 @@ programming/writing/reading - p
 6p - Collaboration platform/git hosting (github alternative): https://codeberg.org/ - o
      ∟ Codeberg is based on forgejo: https://forgejo.org/.
 
-7p - Lua: https://www.lua.org/ - o
+7p - Scripting Language: https://www.lua.org/ - o
      ∟ Learn lua: https://www.lua.org/pil/contents.html and https://tylerneylon.com/a/learn-lua/.
 
-8p - Nim: https://nim-lang.org/ - o
+8p - General use programming language: https://nim-lang.org/ - o
      ∟ Good video tutorials: https://www.youtube.com/@kiloneie.
+     
+9p - Frontend/Web development: https://vuejs.org/ - o
 
 -Second Section - Writing/Reading-
 
-9p - Text editor: https://www.sublimetext.com/ - c W? L M
+10p - Text editor: https://www.sublimetext.com/ - c W? L M
      ∟ Activate it: https://gist.github.com/skoqaq/3f3e8f28e23c881143cef9cf49d821ff.
 
-10p - Fonts: https://www.dafont.com/pt/
+11p - Fonts: https://www.dafont.com/pt/
 
-11p - Some royalty-free fonts: https://www.ggbot.net/fonts/
+12p - Some royalty-free fonts: https://www.ggbot.net/fonts/
 
-12p - Office suite: https://www.libreoffice.org/ - o WU L M
+13p - Office suite: https://www.libreoffice.org/ - o WU L M
 
-13p - PDF reader: https://www.sumatrapdfreader.org/free-pdf-reader (windows) - o WU
+14p - PDF reader: https://www.sumatrapdfreader.org/free-pdf-reader (windows) - o WU
 
-14p - Desktop publishing: https://www.scribus.net/ - o WU L M
+15p - Desktop publishing: https://www.scribus.net/ - o WU L M
 
-15p - Character counter, palindrome checker, text reverser, and more: www.handyvoid.com - o
+16p - Character counter, palindrome checker, text reverser, and more: www.handyvoid.com - o
       ∟ https://github.com/HandyVoid/HandyVoidium.
 
-16p - Get a .json file with word count of a .txt file: https://javierribaldelrio.github.io/Word-File-Counter/ - o
+17p - Get a .json file with word count of a .txt file: https://javierribaldelrio.github.io/Word-File-Counter/ - o
       ∟ https://github.com/JavierRibaldelRio/Word-File-Counter.
 
-17p - Simple character count: https://tally.johng.io/ - o
+18p - Simple character count: https://tally.johng.io/ - o
       ∟ Also counts words, sentences, paragraphs, spaces, digits, special characters. repository: https://github.com/jerboa88/Tally.
 
-18p - EPUB reader: https://flathub.org/apps/details/com.github.johnfactotum.Foliate - o LU
+19p - EPUB reader: https://flathub.org/apps/details/com.github.johnfactotum.Foliate - o LU
 
-19p - EPUB viewer, editor, creator: https://sigil-ebook.com/ - o WU LU M
+20p - EPUB viewer, editor, creator: https://sigil-ebook.com/ - o WU LU M
 
-20p - Translation: https://github.com/crow-translate/crow-translate, https://github.com/argosopentech/argos-translate, https://github.com/argosopentech/argos-translate - o
+21p - Translation: https://github.com/crow-translate/crow-translate, https://github.com/argosopentech/argos-translate, https://github.com/argosopentech/argos-translate - o
 
 -
 
