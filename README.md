@@ -14,7 +14,7 @@ There is quite an amount of text, so I highly recommend you to download the .txt
 
 -
 
-The compendium is divided into many categories and each entry has a some tags accompanying it, indicating whether it is open or closed source, and OS compatibility. Inside each category, similar entries are grouped together. Some categories are further divided into sections.
+The compendium is divided into many categories and each entry has some tags accompanying it, indicating whether it is open or closed source, and OS compatibility. Inside each category, similar entries are grouped together. Some categories are further divided into sections.
 
 -
 
